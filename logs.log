@@ -1,0 +1,647 @@
+2025-05-03 14:41:14,506:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 40.4% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:15,519:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 40.5% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:16,535:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 39.4% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:17,497:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 39.0% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:19,420:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 60.5% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:21,371:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 58.0% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:22,481:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 43.2% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:23,727:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 47.7% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:25,375:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 49.8% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:26,523:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 45.2% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:27,527:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 40.6% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:28,523:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 41.0% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:29,486:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 39.6% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:32,250:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 61.0% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:33,912:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 58.4% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:35,032:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 44.0% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:36,248:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 48.3% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:37,521:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 50.7% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:41:38,581:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 45.6% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:47:12,903:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-03 14:47:12,903:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-03 14:47:12,906:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-03 14:47:12,906:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-03 14:47:17,978:INFO:PyCaret AnomalyExperiment
+2025-05-03 14:47:17,978:INFO:Logging name: anomaly-default-name
+2025-05-03 14:47:17,978:INFO:ML Usecase: MLUsecase.ANOMALY
+2025-05-03 14:47:17,978:INFO:version 3.4.0
+2025-05-03 14:47:17,978:INFO:Initializing setup()
+2025-05-03 14:47:17,978:INFO:self.USI: e427
+2025-05-03 14:47:17,978:INFO:self._variable_keys: {'logging_param', 'gpu_param', 'memory', 'exp_name_log', '_available_plots', 'data', 'n_jobs_param', 'USI', 'idx', 'seed', 'pipeline', 'X', 'exp_id', 'gpu_n_jobs_param', '_ml_usecase', 'log_plots_param', 'html_param'}
+2025-05-03 14:47:17,978:INFO:Checking environment
+2025-05-03 14:47:17,978:INFO:python_version: 3.11.9
+2025-05-03 14:47:17,978:INFO:python_build: ('tags/v3.11.9:de54cf5', 'Apr  2 2024 10:12:12')
+2025-05-03 14:47:17,978:INFO:machine: AMD64
+2025-05-03 14:47:17,978:INFO:platform: Windows-10-10.0.26100-SP0
+2025-05-03 14:47:17,998:INFO:Memory: svmem(total=16802746368, available=2346840064, percent=86.0, used=14455906304, free=2346840064)
+2025-05-03 14:47:17,998:INFO:Physical Core: 10
+2025-05-03 14:47:17,998:INFO:Logical Core: 16
+2025-05-03 14:47:17,998:INFO:Checking libraries
+2025-05-03 14:47:17,998:INFO:System:
+2025-05-03 14:47:18,000:INFO:    python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+2025-05-03 14:47:18,000:INFO:executable: c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\python.exe
+2025-05-03 14:47:18,000:INFO:   machine: Windows-10-10.0.26100-SP0
+2025-05-03 14:47:18,000:INFO:PyCaret required dependencies:
+2025-05-03 14:47:18,209:INFO:                 pip: 25.0.1
+2025-05-03 14:47:18,209:INFO:          setuptools: 65.5.0
+2025-05-03 14:47:18,209:INFO:             pycaret: 3.4.0
+2025-05-03 14:47:18,209:INFO:             IPython: 8.32.0
+2025-05-03 14:47:18,211:INFO:          ipywidgets: 8.1.5
+2025-05-03 14:47:18,211:INFO:                tqdm: 4.67.1
+2025-05-03 14:47:18,211:INFO:               numpy: 1.26.4
+2025-05-03 14:47:18,211:INFO:              pandas: 2.2.3
+2025-05-03 14:47:18,211:INFO:              jinja2: 3.1.5
+2025-05-03 14:47:18,211:INFO:               scipy: 1.11.4
+2025-05-03 14:47:18,211:INFO:              joblib: 1.3.2
+2025-05-03 14:47:18,211:INFO:             sklearn: 1.6.1
+2025-05-03 14:47:18,211:INFO:                pyod: 2.0.3
+2025-05-03 14:47:18,211:INFO:            imblearn: 0.13.0
+2025-05-03 14:47:18,211:INFO:   category_encoders: 2.8.0
+2025-05-03 14:47:18,211:INFO:            lightgbm: 4.5.0
+2025-05-03 14:47:18,211:INFO:               numba: 0.61.0
+2025-05-03 14:47:18,211:INFO:            requests: 2.32.3
+2025-05-03 14:47:18,211:INFO:          matplotlib: 3.7.5
+2025-05-03 14:47:18,211:INFO:          scikitplot: 0.3.12
+2025-05-03 14:47:18,211:INFO:         yellowbrick: 1.5
+2025-05-03 14:47:18,211:INFO:              plotly: 5.24.1
+2025-05-03 14:47:18,211:INFO:    plotly-resampler: Not installed
+2025-05-03 14:47:18,211:INFO:             kaleido: 0.2.1
+2025-05-03 14:47:18,211:INFO:           schemdraw: 0.15
+2025-05-03 14:47:18,213:INFO:         statsmodels: 0.14.4
+2025-05-03 14:47:18,213:INFO:              sktime: 0.36.0
+2025-05-03 14:47:18,213:INFO:               tbats: 1.1.3
+2025-05-03 14:47:18,213:INFO:            pmdarima: 2.0.4
+2025-05-03 14:47:18,213:INFO:              psutil: 6.1.1
+2025-05-03 14:47:18,213:INFO:          markupsafe: 3.0.2
+2025-05-03 14:47:18,213:INFO:             pickle5: Not installed
+2025-05-03 14:47:18,213:INFO:         cloudpickle: 3.1.1
+2025-05-03 14:47:18,213:INFO:         deprecation: 2.1.0
+2025-05-03 14:47:18,213:INFO:              xxhash: 3.5.0
+2025-05-03 14:47:18,213:INFO:           wurlitzer: Not installed
+2025-05-03 14:47:18,213:INFO:PyCaret optional dependencies:
+2025-05-03 14:47:36,055:INFO:                shap: Not installed
+2025-05-03 14:47:36,055:INFO:           interpret: Not installed
+2025-05-03 14:47:36,055:INFO:                umap: Not installed
+2025-05-03 14:47:36,055:INFO:     ydata_profiling: Not installed
+2025-05-03 14:47:36,055:INFO:  explainerdashboard: Not installed
+2025-05-03 14:47:36,055:INFO:             autoviz: Not installed
+2025-05-03 14:47:36,055:INFO:           fairlearn: Not installed
+2025-05-03 14:47:36,057:INFO:          deepchecks: Not installed
+2025-05-03 14:47:36,057:INFO:             xgboost: 2.1.4
+2025-05-03 14:47:36,057:INFO:            catboost: Not installed
+2025-05-03 14:47:36,057:INFO:              kmodes: Not installed
+2025-05-03 14:47:36,057:INFO:             mlxtend: Not installed
+2025-05-03 14:47:36,057:INFO:       statsforecast: Not installed
+2025-05-03 14:47:36,057:INFO:        tune_sklearn: Not installed
+2025-05-03 14:47:36,057:INFO:                 ray: Not installed
+2025-05-03 14:47:36,057:INFO:            hyperopt: Not installed
+2025-05-03 14:47:36,057:INFO:              optuna: 4.2.1
+2025-05-03 14:47:36,059:INFO:               skopt: Not installed
+2025-05-03 14:47:36,059:INFO:              mlflow: Not installed
+2025-05-03 14:47:36,059:INFO:              gradio: Not installed
+2025-05-03 14:47:36,059:INFO:             fastapi: Not installed
+2025-05-03 14:47:36,059:INFO:             uvicorn: Not installed
+2025-05-03 14:47:36,059:INFO:              m2cgen: Not installed
+2025-05-03 14:47:36,059:INFO:           evidently: Not installed
+2025-05-03 14:47:36,059:INFO:               fugue: Not installed
+2025-05-03 14:47:36,059:INFO:           streamlit: Not installed
+2025-05-03 14:47:36,059:INFO:             prophet: Not installed
+2025-05-03 14:47:36,059:INFO:None
+2025-05-03 14:47:36,059:INFO:Set up data.
+2025-05-03 14:47:36,065:INFO:Set up index.
+2025-05-03 14:47:36,067:INFO:Assigning column types.
+2025-05-03 14:47:36,071:INFO:Engine successfully changes for model 'kmeans' to 'sklearn'.
+2025-05-03 14:47:38,038:INFO:Engine successfully changes for model 'dbscan' to 'sklearn'.
+2025-05-03 14:47:38,043:INFO:Preparing preprocessing pipeline...
+2025-05-03 14:47:38,043:INFO:Set up simple imputation.
+2025-05-03 14:47:38,088:INFO:Finished creating preprocessing pipeline.
+2025-05-03 14:47:38,093:INFO:Pipeline: Pipeline(memory=FastMemory(location=C:\Users\KRISHN~1\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Col1', 'Col2', 'Col3', 'Col4',
+                                             'Col5', 'Col6', 'Col7', 'Col8',
+                                             'Col9', 'Col10'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent')))])
+2025-05-03 14:47:38,093:INFO:Creating final display dataframe.
+2025-05-03 14:47:38,127:INFO:Setup _display_container:                Description                 Value
+0               Session id                   123
+1      Original data shape            (1000, 10)
+2   Transformed data shape            (1000, 10)
+3         Numeric features                    10
+4               Preprocess                  True
+5          Imputation type                simple
+6       Numeric imputation                  mean
+7   Categorical imputation                  mode
+8                 CPU Jobs                    -1
+9                  Use GPU                 False
+10          Log Experiment                 False
+11         Experiment Name  anomaly-default-name
+12                     USI                  e427
+2025-05-03 14:47:38,143:INFO:setup() successfully completed in 20.17s...............
+2025-05-03 14:47:44,969:INFO:gpu_param set to False
+2025-05-03 14:47:51,602:INFO:Initializing create_model()
+2025-05-03 14:47:51,602:INFO:create_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000021CBC0AD950>, estimator=iforest, num_clusters=4, fraction=0.05, ground_truth=None, round=4, fit_kwargs=None, experiment_custom_tags=None, verbose=True, system=True, add_to_model_list=True, raise_num_clusters=False, display=None, kwargs={})
+2025-05-03 14:47:51,602:INFO:Checking exceptions
+2025-05-03 14:47:51,678:INFO:Importing untrained model
+2025-05-03 14:47:51,688:INFO:Isolation Forest Imported successfully
+2025-05-03 14:47:51,697:INFO:Fitting Model
+2025-05-03 14:47:52,207:INFO:IForest(behaviour='new', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=-1,
+    random_state=123, verbose=0)
+2025-05-03 14:47:52,209:INFO:create_models() successfully completed......................................
+2025-05-03 14:47:52,218:INFO:Uploading results into container
+2025-05-03 14:47:52,218:INFO:Uploading model into container now
+2025-05-03 14:47:52,228:INFO:_master_model_container: 1
+2025-05-03 14:47:52,228:INFO:_display_container: 1
+2025-05-03 14:47:52,228:INFO:IForest(behaviour='new', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=-1,
+    random_state=123, verbose=0)
+2025-05-03 14:47:52,228:INFO:create_model() successfully completed......................................
+2025-05-03 14:47:59,104:INFO:Initializing create_model()
+2025-05-03 14:47:59,104:INFO:create_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000021CBC0AD950>, estimator=lof, num_clusters=4, fraction=0.05, ground_truth=None, round=4, fit_kwargs=None, experiment_custom_tags=None, verbose=True, system=True, add_to_model_list=True, raise_num_clusters=False, display=None, kwargs={})
+2025-05-03 14:47:59,104:INFO:Checking exceptions
+2025-05-03 14:47:59,173:INFO:Importing untrained model
+2025-05-03 14:47:59,190:INFO:Local Outlier Factor Imported successfully
+2025-05-03 14:47:59,201:INFO:Fitting Model
+2025-05-03 14:47:59,402:INFO:LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=-1, n_neighbors=20, novelty=True, p=2)
+2025-05-03 14:47:59,402:INFO:create_models() successfully completed......................................
+2025-05-03 14:47:59,413:INFO:Uploading results into container
+2025-05-03 14:47:59,413:INFO:Uploading model into container now
+2025-05-03 14:47:59,420:INFO:_master_model_container: 2
+2025-05-03 14:47:59,420:INFO:_display_container: 1
+2025-05-03 14:47:59,422:INFO:LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=-1, n_neighbors=20, novelty=True, p=2)
+2025-05-03 14:47:59,422:INFO:create_model() successfully completed......................................
+2025-05-03 14:48:06,429:INFO:Initializing assign_model()
+2025-05-03 14:48:06,429:INFO:assign_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000021CBC0AD950>, model=IForest(behaviour='new', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=-1,
+    random_state=123, verbose=0), transformation=False, score=True, verbose=True)
+2025-05-03 14:48:06,429:INFO:Checking exceptions
+2025-05-03 14:48:06,429:INFO:Determining Trained Model
+2025-05-03 14:48:06,432:INFO:Trained Model : Isolation Forest
+2025-05-03 14:48:06,432:INFO:Copying data
+2025-05-03 14:48:06,436:INFO:(1000, 12)
+2025-05-03 14:48:06,436:INFO:assign_model() successfully completed......................................
+2025-05-03 14:48:09,486:INFO:Initializing assign_model()
+2025-05-03 14:48:09,486:INFO:assign_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000021CBC0AD950>, model=LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=-1, n_neighbors=20, novelty=True, p=2), transformation=False, score=True, verbose=True)
+2025-05-03 14:48:09,486:INFO:Checking exceptions
+2025-05-03 14:48:09,486:INFO:Determining Trained Model
+2025-05-03 14:48:09,486:INFO:Trained Model : Local Outlier Factor
+2025-05-03 14:48:09,486:INFO:Copying data
+2025-05-03 14:48:09,489:INFO:(1000, 12)
+2025-05-03 14:48:09,491:INFO:assign_model() successfully completed......................................
+2025-05-03 14:48:15,292:INFO:Initializing plot_model()
+2025-05-03 14:48:15,292:INFO:plot_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000021CBC0AD950>, estimator=IForest(behaviour='new', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=-1,
+    random_state=123, verbose=0), plot=tsne, scale=1, save=False, fold=None, fit_kwargs=None, plot_kwargs=None, groups=None, feature_name=None, label=False, verbose=True, system=True, display=None, display_format=None)
+2025-05-03 14:48:15,292:INFO:Checking exceptions
+2025-05-03 14:48:22,046:INFO:Preloading libraries
+2025-05-03 14:48:22,061:INFO:Copying training dataset
+2025-05-03 14:48:22,061:INFO:Plot type: tsne
+2025-05-03 14:48:22,063:INFO:SubProcess assign_model() called ==================================
+2025-05-03 14:48:22,063:INFO:Initializing assign_model()
+2025-05-03 14:48:22,063:INFO:assign_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000021CBC0AD950>, model=IForest(behaviour='new', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=-1,
+    random_state=123, verbose=0), transformation=True, score=False, verbose=False)
+2025-05-03 14:48:22,063:INFO:Checking exceptions
+2025-05-03 14:48:22,063:INFO:Determining Trained Model
+2025-05-03 14:48:22,063:INFO:Trained Model : Isolation Forest
+2025-05-03 14:48:22,063:INFO:Copying data
+2025-05-03 14:48:22,096:INFO:Transformation parameter set to True. Assigned clusters are attached on transformed dataset.
+2025-05-03 14:48:22,096:INFO:(1000, 11)
+2025-05-03 14:48:22,096:INFO:assign_model() successfully completed......................................
+2025-05-03 14:48:22,098:INFO:SubProcess assign_model() end ==================================
+2025-05-03 14:48:22,098:INFO:Getting dummies to cast categorical variables
+2025-05-03 14:48:22,098:INFO:Fitting TSNE()
+2025-05-03 14:48:30,877:INFO:Rendering Visual
+2025-05-03 14:48:35,210:INFO:Visual Rendered Successfully
+2025-05-03 14:48:35,644:INFO:plot_model() successfully completed......................................
+2025-05-03 14:49:02,558:INFO:Initializing plot_model()
+2025-05-03 14:49:02,558:INFO:plot_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000021CBC0AD950>, estimator=LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=-1, n_neighbors=20, novelty=True, p=2), plot=umap, scale=1, save=True, fold=None, fit_kwargs=None, plot_kwargs=None, groups=None, feature_name=None, label=False, verbose=True, system=True, display=None, display_format=None)
+2025-05-03 14:49:02,558:INFO:Checking exceptions
+2025-05-03 14:49:02,558:INFO:Preloading libraries
+2025-05-03 14:49:02,571:INFO:Copying training dataset
+2025-05-03 14:49:02,571:INFO:Plot type: umap
+2025-05-03 14:49:02,574:INFO:SubProcess assign_model() called ==================================
+2025-05-03 14:49:02,575:INFO:Initializing assign_model()
+2025-05-03 14:49:02,575:INFO:assign_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000021CBC0AD950>, model=LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=-1, n_neighbors=20, novelty=True, p=2), transformation=True, score=False, verbose=False)
+2025-05-03 14:49:02,575:INFO:Checking exceptions
+2025-05-03 14:49:02,575:INFO:Determining Trained Model
+2025-05-03 14:49:02,575:INFO:Trained Model : Local Outlier Factor
+2025-05-03 14:49:02,575:INFO:Copying data
+2025-05-03 14:49:02,606:INFO:Transformation parameter set to True. Assigned clusters are attached on transformed dataset.
+2025-05-03 14:49:02,608:INFO:(1000, 11)
+2025-05-03 14:49:02,608:INFO:assign_model() successfully completed......................................
+2025-05-03 14:49:02,608:INFO:SubProcess assign_model() end ==================================
+2025-05-03 14:49:02,611:ERROR:
+'umap' is a soft dependency and not included in the pycaret installation. Please run: `pip install umap-learn` to install.
+Alternately, you can install this by running `pip install pycaret[analysis]`
+NoneType: None
+2025-05-03 14:50:12,818:INFO:Initializing plot_model()
+2025-05-03 14:50:12,818:INFO:plot_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000021CBC0AD950>, estimator=LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=-1, n_neighbors=20, novelty=True, p=2), plot=umap, scale=1, save=True, fold=None, fit_kwargs=None, plot_kwargs=None, groups=None, feature_name=None, label=False, verbose=True, system=True, display=None, display_format=None)
+2025-05-03 14:50:12,818:INFO:Checking exceptions
+2025-05-03 14:50:12,825:INFO:Preloading libraries
+2025-05-03 14:50:12,827:INFO:Copying training dataset
+2025-05-03 14:50:12,829:INFO:Plot type: umap
+2025-05-03 14:50:12,829:INFO:SubProcess assign_model() called ==================================
+2025-05-03 14:50:12,829:INFO:Initializing assign_model()
+2025-05-03 14:50:12,829:INFO:assign_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000021CBC0AD950>, model=LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=-1, n_neighbors=20, novelty=True, p=2), transformation=True, score=False, verbose=False)
+2025-05-03 14:50:12,829:INFO:Checking exceptions
+2025-05-03 14:50:12,829:INFO:Determining Trained Model
+2025-05-03 14:50:12,829:INFO:Trained Model : Local Outlier Factor
+2025-05-03 14:50:12,829:INFO:Copying data
+2025-05-03 14:50:12,864:INFO:Transformation parameter set to True. Assigned clusters are attached on transformed dataset.
+2025-05-03 14:50:12,867:INFO:(1000, 11)
+2025-05-03 14:50:12,867:INFO:assign_model() successfully completed......................................
+2025-05-03 14:50:12,867:INFO:SubProcess assign_model() end ==================================
+2025-05-03 14:50:12,870:ERROR:
+'umap' is a soft dependency and not included in the pycaret installation. Please run: `pip install umap-learn` to install.
+Alternately, you can install this by running `pip install pycaret[analysis]`
+NoneType: None
+2025-05-03 14:51:04,019:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 40.4% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:05,705:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 40.5% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:07,030:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 39.4% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:08,300:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 39.0% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:10,457:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 60.5% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:12,716:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 58.0% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:14,236:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 43.2% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:15,748:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 47.7% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:17,395:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 49.8% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:18,809:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 45.2% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:20,008:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 40.6% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:21,191:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 41.0% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:22,403:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 39.6% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:25,966:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 61.0% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:28,090:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 58.4% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:29,403:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 44.0% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:30,785:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 48.3% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:32,186:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 50.7% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:51:33,376:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\seaborn\categorical.py:3399: UserWarning: 45.6% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
+  warnings.warn(msg, UserWarning)
+
+2025-05-03 14:53:02,189:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-03 14:53:02,189:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-03 14:53:02,189:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-03 14:53:02,189:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-05-03 14:53:04,374:INFO:PyCaret AnomalyExperiment
+2025-05-03 14:53:04,374:INFO:Logging name: anomaly-default-name
+2025-05-03 14:53:04,374:INFO:ML Usecase: MLUsecase.ANOMALY
+2025-05-03 14:53:04,374:INFO:version 3.4.0
+2025-05-03 14:53:04,374:INFO:Initializing setup()
+2025-05-03 14:53:04,374:INFO:self.USI: ac83
+2025-05-03 14:53:04,375:INFO:self._variable_keys: {'_available_plots', 'seed', 'gpu_n_jobs_param', 'pipeline', 'exp_name_log', 'log_plots_param', 'memory', 'exp_id', 'USI', 'data', '_ml_usecase', 'idx', 'X', 'gpu_param', 'html_param', 'n_jobs_param', 'logging_param'}
+2025-05-03 14:53:04,375:INFO:Checking environment
+2025-05-03 14:53:04,375:INFO:python_version: 3.11.9
+2025-05-03 14:53:04,375:INFO:python_build: ('tags/v3.11.9:de54cf5', 'Apr  2 2024 10:12:12')
+2025-05-03 14:53:04,375:INFO:machine: AMD64
+2025-05-03 14:53:04,375:INFO:platform: Windows-10-10.0.26100-SP0
+2025-05-03 14:53:04,387:INFO:Memory: svmem(total=16802746368, available=2295414784, percent=86.3, used=14507331584, free=2295414784)
+2025-05-03 14:53:04,388:INFO:Physical Core: 10
+2025-05-03 14:53:04,388:INFO:Logical Core: 16
+2025-05-03 14:53:04,388:INFO:Checking libraries
+2025-05-03 14:53:04,388:INFO:System:
+2025-05-03 14:53:04,388:INFO:    python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+2025-05-03 14:53:04,388:INFO:executable: c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\python.exe
+2025-05-03 14:53:04,388:INFO:   machine: Windows-10-10.0.26100-SP0
+2025-05-03 14:53:04,388:INFO:PyCaret required dependencies:
+2025-05-03 14:53:04,444:INFO:                 pip: 25.0.1
+2025-05-03 14:53:04,444:INFO:          setuptools: 65.5.0
+2025-05-03 14:53:04,444:INFO:             pycaret: 3.4.0
+2025-05-03 14:53:04,444:INFO:             IPython: 8.32.0
+2025-05-03 14:53:04,444:INFO:          ipywidgets: 8.1.5
+2025-05-03 14:53:04,445:INFO:                tqdm: 4.67.1
+2025-05-03 14:53:04,445:INFO:               numpy: 1.26.4
+2025-05-03 14:53:04,445:INFO:              pandas: 2.2.3
+2025-05-03 14:53:04,445:INFO:              jinja2: 3.1.5
+2025-05-03 14:53:04,445:INFO:               scipy: 1.11.4
+2025-05-03 14:53:04,445:INFO:              joblib: 1.3.2
+2025-05-03 14:53:04,445:INFO:             sklearn: 1.6.1
+2025-05-03 14:53:04,445:INFO:                pyod: 2.0.3
+2025-05-03 14:53:04,445:INFO:            imblearn: 0.13.0
+2025-05-03 14:53:04,445:INFO:   category_encoders: 2.8.0
+2025-05-03 14:53:04,445:INFO:            lightgbm: 4.5.0
+2025-05-03 14:53:04,445:INFO:               numba: 0.61.0
+2025-05-03 14:53:04,445:INFO:            requests: 2.32.3
+2025-05-03 14:53:04,445:INFO:          matplotlib: 3.7.5
+2025-05-03 14:53:04,445:INFO:          scikitplot: 0.3.12
+2025-05-03 14:53:04,445:INFO:         yellowbrick: 1.5
+2025-05-03 14:53:04,445:INFO:              plotly: 5.24.1
+2025-05-03 14:53:04,446:INFO:    plotly-resampler: Not installed
+2025-05-03 14:53:04,446:INFO:             kaleido: 0.2.1
+2025-05-03 14:53:04,446:INFO:           schemdraw: 0.15
+2025-05-03 14:53:04,446:INFO:         statsmodels: 0.14.4
+2025-05-03 14:53:04,446:INFO:              sktime: 0.36.0
+2025-05-03 14:53:04,446:INFO:               tbats: 1.1.3
+2025-05-03 14:53:04,446:INFO:            pmdarima: 2.0.4
+2025-05-03 14:53:04,446:INFO:              psutil: 6.1.1
+2025-05-03 14:53:04,446:INFO:          markupsafe: 3.0.2
+2025-05-03 14:53:04,446:INFO:             pickle5: Not installed
+2025-05-03 14:53:04,446:INFO:         cloudpickle: 3.1.1
+2025-05-03 14:53:04,446:INFO:         deprecation: 2.1.0
+2025-05-03 14:53:04,446:INFO:              xxhash: 3.5.0
+2025-05-03 14:53:04,446:INFO:           wurlitzer: Not installed
+2025-05-03 14:53:04,446:INFO:PyCaret optional dependencies:
+2025-05-03 14:53:04,538:INFO:                shap: Not installed
+2025-05-03 14:53:04,538:INFO:           interpret: Not installed
+2025-05-03 14:53:04,538:INFO:                umap: 0.5.7
+2025-05-03 14:53:04,538:INFO:     ydata_profiling: Not installed
+2025-05-03 14:53:04,538:INFO:  explainerdashboard: Not installed
+2025-05-03 14:53:04,538:INFO:             autoviz: Not installed
+2025-05-03 14:53:04,538:INFO:           fairlearn: Not installed
+2025-05-03 14:53:04,538:INFO:          deepchecks: Not installed
+2025-05-03 14:53:04,539:INFO:             xgboost: 2.1.4
+2025-05-03 14:53:04,539:INFO:            catboost: Not installed
+2025-05-03 14:53:04,539:INFO:              kmodes: Not installed
+2025-05-03 14:53:04,539:INFO:             mlxtend: Not installed
+2025-05-03 14:53:04,539:INFO:       statsforecast: Not installed
+2025-05-03 14:53:04,539:INFO:        tune_sklearn: Not installed
+2025-05-03 14:53:04,539:INFO:                 ray: Not installed
+2025-05-03 14:53:04,539:INFO:            hyperopt: Not installed
+2025-05-03 14:53:04,539:INFO:              optuna: 4.2.1
+2025-05-03 14:53:04,539:INFO:               skopt: Not installed
+2025-05-03 14:53:04,539:INFO:              mlflow: Not installed
+2025-05-03 14:53:04,539:INFO:              gradio: Not installed
+2025-05-03 14:53:04,539:INFO:             fastapi: Not installed
+2025-05-03 14:53:04,539:INFO:             uvicorn: Not installed
+2025-05-03 14:53:04,539:INFO:              m2cgen: Not installed
+2025-05-03 14:53:04,539:INFO:           evidently: Not installed
+2025-05-03 14:53:04,539:INFO:               fugue: Not installed
+2025-05-03 14:53:04,540:INFO:           streamlit: Not installed
+2025-05-03 14:53:04,540:INFO:             prophet: Not installed
+2025-05-03 14:53:04,540:INFO:None
+2025-05-03 14:53:04,540:INFO:Set up data.
+2025-05-03 14:53:04,545:INFO:Set up index.
+2025-05-03 14:53:04,546:INFO:Assigning column types.
+2025-05-03 14:53:04,550:INFO:Engine successfully changes for model 'kmeans' to 'sklearn'.
+2025-05-03 14:53:05,331:INFO:Engine successfully changes for model 'dbscan' to 'sklearn'.
+2025-05-03 14:53:05,336:INFO:Preparing preprocessing pipeline...
+2025-05-03 14:53:05,336:INFO:Set up simple imputation.
+2025-05-03 14:53:05,410:INFO:Finished creating preprocessing pipeline.
+2025-05-03 14:53:05,419:INFO:Pipeline: Pipeline(memory=FastMemory(location=C:\Users\KRISHN~1\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Col1', 'Col2', 'Col3', 'Col4',
+                                             'Col5', 'Col6', 'Col7', 'Col8',
+                                             'Col9', 'Col10'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent')))])
+2025-05-03 14:53:05,419:INFO:Creating final display dataframe.
+2025-05-03 14:53:05,464:INFO:Setup _display_container:                Description                 Value
+0               Session id                   123
+1      Original data shape            (1000, 10)
+2   Transformed data shape            (1000, 10)
+3         Numeric features                    10
+4               Preprocess                  True
+5          Imputation type                simple
+6       Numeric imputation                  mean
+7   Categorical imputation                  mode
+8                 CPU Jobs                    -1
+9                  Use GPU                 False
+10          Log Experiment                 False
+11         Experiment Name  anomaly-default-name
+12                     USI                  ac83
+2025-05-03 14:53:05,478:INFO:setup() successfully completed in 1.11s...............
+2025-05-03 14:53:05,497:INFO:gpu_param set to False
+2025-05-03 14:53:05,546:INFO:Initializing create_model()
+2025-05-03 14:53:05,546:INFO:create_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000027856E62450>, estimator=iforest, num_clusters=4, fraction=0.05, ground_truth=None, round=4, fit_kwargs=None, experiment_custom_tags=None, verbose=True, system=True, add_to_model_list=True, raise_num_clusters=False, display=None, kwargs={})
+2025-05-03 14:53:05,547:INFO:Checking exceptions
+2025-05-03 14:53:05,631:INFO:Importing untrained model
+2025-05-03 14:53:05,639:INFO:Isolation Forest Imported successfully
+2025-05-03 14:53:05,649:INFO:Fitting Model
+2025-05-03 14:53:06,146:INFO:IForest(behaviour='new', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=-1,
+    random_state=123, verbose=0)
+2025-05-03 14:53:06,147:INFO:create_models() successfully completed......................................
+2025-05-03 14:53:06,161:INFO:Uploading results into container
+2025-05-03 14:53:06,161:INFO:Uploading model into container now
+2025-05-03 14:53:06,172:INFO:_master_model_container: 1
+2025-05-03 14:53:06,172:INFO:_display_container: 1
+2025-05-03 14:53:06,173:INFO:IForest(behaviour='new', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=-1,
+    random_state=123, verbose=0)
+2025-05-03 14:53:06,173:INFO:create_model() successfully completed......................................
+2025-05-03 14:53:06,813:INFO:Initializing create_model()
+2025-05-03 14:53:06,814:INFO:create_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000027856E62450>, estimator=lof, num_clusters=4, fraction=0.05, ground_truth=None, round=4, fit_kwargs=None, experiment_custom_tags=None, verbose=True, system=True, add_to_model_list=True, raise_num_clusters=False, display=None, kwargs={})
+2025-05-03 14:53:06,815:INFO:Checking exceptions
+2025-05-03 14:53:06,889:INFO:Importing untrained model
+2025-05-03 14:53:06,901:INFO:Local Outlier Factor Imported successfully
+2025-05-03 14:53:06,913:INFO:Fitting Model
+2025-05-03 14:53:07,006:INFO:LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=-1, n_neighbors=20, novelty=True, p=2)
+2025-05-03 14:53:07,006:INFO:create_models() successfully completed......................................
+2025-05-03 14:53:07,014:INFO:Uploading results into container
+2025-05-03 14:53:07,015:INFO:Uploading model into container now
+2025-05-03 14:53:07,022:INFO:_master_model_container: 2
+2025-05-03 14:53:07,022:INFO:_display_container: 1
+2025-05-03 14:53:07,023:INFO:LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=-1, n_neighbors=20, novelty=True, p=2)
+2025-05-03 14:53:07,023:INFO:create_model() successfully completed......................................
+2025-05-03 14:53:07,458:INFO:Initializing assign_model()
+2025-05-03 14:53:07,459:INFO:assign_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000027856E62450>, model=IForest(behaviour='new', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=-1,
+    random_state=123, verbose=0), transformation=False, score=True, verbose=True)
+2025-05-03 14:53:07,459:INFO:Checking exceptions
+2025-05-03 14:53:07,459:INFO:Determining Trained Model
+2025-05-03 14:53:07,460:INFO:Trained Model : Isolation Forest
+2025-05-03 14:53:07,460:INFO:Copying data
+2025-05-03 14:53:07,465:INFO:(1000, 12)
+2025-05-03 14:53:07,465:INFO:assign_model() successfully completed......................................
+2025-05-03 14:53:07,547:INFO:Initializing assign_model()
+2025-05-03 14:53:07,548:INFO:assign_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000027856E62450>, model=LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=-1, n_neighbors=20, novelty=True, p=2), transformation=False, score=True, verbose=True)
+2025-05-03 14:53:07,549:INFO:Checking exceptions
+2025-05-03 14:53:07,549:INFO:Determining Trained Model
+2025-05-03 14:53:07,550:INFO:Trained Model : Local Outlier Factor
+2025-05-03 14:53:07,550:INFO:Copying data
+2025-05-03 14:53:07,554:INFO:(1000, 12)
+2025-05-03 14:53:07,555:INFO:assign_model() successfully completed......................................
+2025-05-03 14:53:07,621:INFO:Initializing plot_model()
+2025-05-03 14:53:07,621:INFO:plot_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000027856E62450>, estimator=IForest(behaviour='new', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=-1,
+    random_state=123, verbose=0), plot=tsne, scale=1, save=False, fold=None, fit_kwargs=None, plot_kwargs=None, groups=None, feature_name=None, label=False, verbose=True, system=True, display=None, display_format=None)
+2025-05-03 14:53:07,622:INFO:Checking exceptions
+2025-05-03 14:53:15,163:INFO:Preloading libraries
+2025-05-03 14:53:15,189:INFO:Copying training dataset
+2025-05-03 14:53:15,190:INFO:Plot type: tsne
+2025-05-03 14:53:15,191:INFO:SubProcess assign_model() called ==================================
+2025-05-03 14:53:15,192:INFO:Initializing assign_model()
+2025-05-03 14:53:15,192:INFO:assign_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000027856E62450>, model=IForest(behaviour='new', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=-1,
+    random_state=123, verbose=0), transformation=True, score=False, verbose=False)
+2025-05-03 14:53:15,192:INFO:Checking exceptions
+2025-05-03 14:53:15,192:INFO:Determining Trained Model
+2025-05-03 14:53:15,193:INFO:Trained Model : Isolation Forest
+2025-05-03 14:53:15,193:INFO:Copying data
+2025-05-03 14:53:15,225:INFO:Transformation parameter set to True. Assigned clusters are attached on transformed dataset.
+2025-05-03 14:53:15,226:INFO:(1000, 11)
+2025-05-03 14:53:15,226:INFO:assign_model() successfully completed......................................
+2025-05-03 14:53:15,226:INFO:SubProcess assign_model() end ==================================
+2025-05-03 14:53:15,228:INFO:Getting dummies to cast categorical variables
+2025-05-03 14:53:15,228:INFO:Fitting TSNE()
+2025-05-03 14:53:23,783:INFO:Rendering Visual
+2025-05-03 14:53:26,114:INFO:Visual Rendered Successfully
+2025-05-03 14:53:26,490:INFO:plot_model() successfully completed......................................
+2025-05-03 14:53:27,109:INFO:Initializing plot_model()
+2025-05-03 14:53:27,109:INFO:plot_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000027856E62450>, estimator=LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=-1, n_neighbors=20, novelty=True, p=2), plot=umap, scale=1, save=True, fold=None, fit_kwargs=None, plot_kwargs=None, groups=None, feature_name=None, label=False, verbose=True, system=True, display=None, display_format=None)
+2025-05-03 14:53:27,110:INFO:Checking exceptions
+2025-05-03 14:53:27,118:INFO:Preloading libraries
+2025-05-03 14:53:27,119:INFO:Copying training dataset
+2025-05-03 14:53:27,120:INFO:Plot type: umap
+2025-05-03 14:53:27,121:INFO:SubProcess assign_model() called ==================================
+2025-05-03 14:53:27,122:INFO:Initializing assign_model()
+2025-05-03 14:53:27,122:INFO:assign_model(self=<pycaret.anomaly.oop.AnomalyExperiment object at 0x0000027856E62450>, model=LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=-1, n_neighbors=20, novelty=True, p=2), transformation=True, score=False, verbose=False)
+2025-05-03 14:53:27,122:INFO:Checking exceptions
+2025-05-03 14:53:27,123:INFO:Determining Trained Model
+2025-05-03 14:53:27,124:INFO:Trained Model : Local Outlier Factor
+2025-05-03 14:53:27,124:INFO:Copying data
+2025-05-03 14:53:27,163:INFO:Transformation parameter set to True. Assigned clusters are attached on transformed dataset.
+2025-05-03 14:53:27,164:INFO:(1000, 11)
+2025-05-03 14:53:27,164:INFO:assign_model() successfully completed......................................
+2025-05-03 14:53:27,165:INFO:SubProcess assign_model() end ==================================
+2025-05-03 14:53:27,167:INFO:Soft dependency imported: umap: 0.5.7
+2025-05-03 14:54:17,427:INFO:Fitting UMAP()
+2025-05-03 14:54:17,427:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning:
+
+'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+
+
+2025-05-03 14:54:47,406:INFO:Rendering Visual
+2025-05-03 14:54:47,547:INFO:Saving 'UMAP Dimensionality Plot.png'
+2025-05-03 14:54:48,342:INFO:Visual Rendered Successfully
+2025-05-03 14:54:49,051:INFO:plot_model() successfully completed......................................
+2025-05-03 14:54:49,120:INFO:Initializing save_model()
+2025-05-03 14:54:49,120:INFO:save_model(model=IForest(behaviour='new', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=-1,
+    random_state=123, verbose=0), model_name=IForest_Model, prep_pipe_=Pipeline(memory=FastMemory(location=C:\Users\KRISHN~1\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Col1', 'Col2', 'Col3', 'Col4',
+                                             'Col5', 'Col6', 'Col7', 'Col8',
+                                             'Col9', 'Col10'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent')))]), verbose=True, use_case=MLUsecase.ANOMALY, kwargs={})
+2025-05-03 14:54:49,120:INFO:Adding model into prep_pipe
+2025-05-03 14:54:49,295:INFO:IForest_Model.pkl saved in current working directory
+2025-05-03 14:54:49,304:INFO:Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Col1', 'Col2', 'Col3', 'Col4',
+                                             'Col5', 'Col6', 'Col7', 'Col8',
+                                             'Col9', 'Col10'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 IForest(behaviour='new', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=-1,
+    random_state=123, verbose=0))])
+2025-05-03 14:54:49,304:INFO:save_model() successfully completed......................................
+2025-05-03 14:54:50,096:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning:
+
+'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+
+
+2025-05-03 14:54:52,538:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\yellowbrick\text\umap_vis.py:359: UserWarning:
+
+*c* argument looks like a single numeric RGB or RGBA sequence, which should be avoided as value-mapping will have precedence in case its length matches with *x* & *y*.  Please use the *color* keyword-argument or provide a 2D array with a single row if you intend to specify the same RGB or RGBA value for all points.
+
+
+2025-05-03 14:55:01,894:WARNING:c:\Users\Krishnansh Verma\AppData\Local\Programs\Python\Python311\Lib\site-packages\yellowbrick\text\tsne.py:401: UserWarning:
+
+*c* argument looks like a single numeric RGB or RGBA sequence, which should be avoided as value-mapping will have precedence in case its length matches with *x* & *y*.  Please use the *color* keyword-argument or provide a 2D array with a single row if you intend to specify the same RGB or RGBA value for all points.
+
+
